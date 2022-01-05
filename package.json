@@ -1,0 +1,25 @@
+{
+  "name": "glowing-eureka",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --config=jest.config.mjs",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xebec19/glowing-eureka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xebec19/glowing-eureka/issues"
+  },
+  "homepage": "https://github.com/Xebec19/glowing-eureka#readme",
+  "devDependencies": {
+    "jest": "^27.4.6"
+  }
+}
